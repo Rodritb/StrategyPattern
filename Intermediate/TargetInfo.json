@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Strategy_Pattorn",
+			"Path": "F:\\DonkeyKong_SIS457\\Strategy_Pattorn\\Source\\Strategy_Pattorn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Strategy_PattornEditor",
+			"Path": "F:\\DonkeyKong_SIS457\\Strategy_Pattorn\\Source\\Strategy_PattornEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

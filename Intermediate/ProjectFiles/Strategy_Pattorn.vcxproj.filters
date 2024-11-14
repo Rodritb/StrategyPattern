@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Strategy_Pattorn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9850DB42-5C45-497B-9D0D-96C8D5CBBA70}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Strategy_Pattorn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Strategy_PattornEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8B851ED8-58E8-4D99-8C72-29CD20A5DD67}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Strategy_Pattorn">
+      <UniqueIdentifier>{3E4E1396-4666-4521-AA08-A6CEF0F4A270}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\Enemigo.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\Enemigo.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EnemigoCocodrillo.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EnemigoCocodrillo.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EnemigoCuervo.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EnemigoCuervo.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EnemigoLeon.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EnemigoLeon.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimientoTres.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimientoTres.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimientoUno.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimientoUno.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimietnoDos.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\EstrategiaMovimietnoDos.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\Estrategias.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\Estrategias.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Strategy_Pattorn\Strategy_Pattorn.Build.cs">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\Strategy_Pattorn.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\Strategy_Pattorn.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\Strategy_PattornCharacter.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\Strategy_PattornCharacter.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Strategy_Pattorn\Strategy_PattornGameMode.cpp">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Strategy_Pattorn\Strategy_PattornGameMode.h">
+      <Filter>Source\Strategy_Pattorn</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

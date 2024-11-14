@@ -1,0 +1,9 @@
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Intermediate\Build\Win64\UE4Editor\Development\Strategy_Pattorn\Definitions.Strategy_Pattorn.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Source\Strategy_Pattorn/EnemigoLeon.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Source\Strategy_Pattorn\Enemigo.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Source\Strategy_Pattorn\Estrategias.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Intermediate\Build\Win64\UE4Editor\Inc\Strategy_Pattorn\Estrategias.generated.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Intermediate\Build\Win64\UE4Editor\Inc\Strategy_Pattorn\Enemigo.generated.h
+F:\DonkeyKong_SIS457\Strategy_Pattorn\Intermediate\Build\Win64\UE4Editor\Inc\Strategy_Pattorn\EnemigoLeon.generated.h
